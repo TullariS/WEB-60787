@@ -1,0 +1,6 @@
+{
+  "name": "vue-jsdoc-test",
+  "dependencies": {
+    "vue": "^3.2.47"
+  }
+}
